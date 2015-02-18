@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anim>
+ <Data id="1" name="Dragon_DQ_Explanation" startFrame="0f" endFrame="45f" />
+ <Data id="2" name="Dragon_DQ_Idle" startFrame="46f" endFrame="121f" />
+ <Data id="3" name="Dragon_DQ_looking_around" startFrame="122f" endFrame="298f" />
+ <Data id="4" name="Dragon_DQ_speaking_A" startFrame="299f" endFrame="344f" />
+ <Data id="5" name="Dragon_DQ_speaking_B" startFrame="345f" endFrame="495f" />
+ <Data id="6" name="Dragon_DQ_Riding_Flying_Dragon" startFrame="500f" endFrame="540f" />
+ <Data id="7" name="Dragon_DQ_Riding_Sneaking_Dragon" startFrame="545f" endFrame="605f" />
+ <Data id="8" name="Dragon_DQ_Riding_Walkig_Dragon" startFrame="610f" endFrame="650f" />
+ <Data id="9" name="Dragon_DQ_Riding_Running_Dragon" startFrame="655f" endFrame="679f" />
+ <Data id="10" name="Dragon_DQ_Getting_Hit" startFrame="680f" endFrame="710f" />
+ <Data id="11" name="Dragon_DQ_Throwing_Spear_down_left" startFrame="711f" endFrame="746f" />
+ <Data id="12" name="Dragon_DQ_Throwing_Spear_down_right" startFrame="747f" endFrame="782f" />
+ <Data id="13" name="Dragon_DQ_Throwing_Spear_left" startFrame="783f" endFrame="818f" />
+ <Data id="14" name="Dragon_DQ_Throwing_Spear_right" startFrame="819f" endFrame="854f" />
+ <Data id="15" name="Dragon_DQ_Throwing_Spear_stright" startFrame="855f" endFrame="890f" />
+ <Data id="16" name="Dragon_DQ_Throwing_Spear_Up" startFrame="891f" endFrame="926f" />
+ <Data id="17" name="Dragon_DQ_War_Cry" startFrame="927f" endFrame="977f" />
+ <Data id="18" name="Dragon_DQ_Death" startFrame="982f" endFrame="1017f" />
+ <Data id="19" name="Dragon_DQ_death_with_falling_dragon" startFrame="1022f" endFrame="1046f" />
+ <Data id="20" name="Dragon_DQ_death_with_running_Dragon" startFrame="1051f" endFrame="1091f" />
+ <Data id="21" name="Dragon_DQ_death_with_Staying_Dragon" startFrame="1096f" endFrame="1141f" />
+</Anim>

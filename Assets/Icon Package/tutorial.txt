@@ -1,0 +1,9 @@
+Disabled "Outer Glow":
+	1) illustrator -> Window -> Appearance panel;
+	2) Select object;
+	3) Disable "Outer Glow";
+
+Save icon:
+	1) Select icon;
+	2) illustrator -> Object -> Artboards ->  Fit to Selected Art
+	3) illustrator -> File -> Save for Web -> Save

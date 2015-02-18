@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f85adc5fcad6649c0b4cfb5878906de6
+labels:
+- USFX
+- stereo
+- weapon
+- bow
+- arrow
+- archery
+- archer
+- projectile
+- hit
+- armor
+AudioImporter:
+  serializedVersion: 4
+  format: -1
+  quality: -1
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
+  userData: 

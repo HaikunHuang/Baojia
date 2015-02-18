@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b36dd916dc0283d429049f72f55935ab
+labels:
+- toon
+- shader
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _Ramp: {fileID: 2800000, guid: 9b18e196a8dcd46beb44ac234af6d3d5, type: 3}
+  userData: 
